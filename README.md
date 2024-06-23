@@ -13,3 +13,23 @@
 
 ### Crop Averages (1950-2020)
 ![Crop Averages](screenshot.png)
+
+## Final Directory Structure
+```
+manufac-analytics/
+├── node_modules/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── dataProcessor.ts
+│   ├── App.tsx
+│   ├── index.tsx
+│   └── ...
+├── .gitignore
+├── package.json
+├── README.md
+├── tsconfig.json
+├── yarn.lock
+└── Manufac_India_Agro_Dataset.json
+```
